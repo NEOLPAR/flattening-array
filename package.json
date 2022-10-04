@@ -4,7 +4,8 @@
   "description": "Algorithm to flatten an arbitrarily nested array of values.",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm run jest"
+    "test": "jest --config ./jest.config.js",
+    "test-watch": "jest --config ./jest.config.js --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/NEOLPAR/flattening-array/issues"
   },
-  "homepage": "https://github.com/NEOLPAR/flattening-array#readme"
+  "homepage": "https://github.com/NEOLPAR/flattening-array#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
