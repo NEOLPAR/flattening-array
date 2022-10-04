@@ -8,6 +8,11 @@ Write an algorithm to flatten an arbitrarily nested array of values.
 
 If your language of choice includes a flattening function, please implement your own.
 
+Asumptions
+----------
+If the input is not an array, it will return the input.
+If the input contains some empty array in any depth of the main array, this won't be shown in the output.
+
 Setup exercise
 ==============
 
