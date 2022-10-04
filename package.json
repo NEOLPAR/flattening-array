@@ -1,0 +1,19 @@
+{
+  "name": "flattening-array",
+  "version": "1.0.0",
+  "description": "Algorithm to flatten an arbitrarily nested array of values.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEOLPAR/flattening-array.git"
+  },
+  "author": "Ricardo Del Rio Rubial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEOLPAR/flattening-array/issues"
+  },
+  "homepage": "https://github.com/NEOLPAR/flattening-array#readme"
+}
